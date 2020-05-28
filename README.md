@@ -11,6 +11,8 @@ Clone the repo, and run the HTML file in browswer.
 
 ## Usage
 This simple HTML file uses best practices for accessibility and programming.
+![Accessibility Website Photo](assets/images/readme2.png)
+![Accessibility Website Photo](assets/images/readme.png)
 
 ## Credits
 Solo projected completed as homework for Georgia Tech Full-Stack Flex Program.
